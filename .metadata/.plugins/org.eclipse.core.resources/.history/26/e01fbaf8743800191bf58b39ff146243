@@ -1,0 +1,8 @@
+package Entities;
+
+public class Reserve {
+	String name;
+	String email;
+	Integer room;
+	
+}

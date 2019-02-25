@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Entities.Rooms.java&apos; to &apos;Reserve.java&apos;&#x0D;&#x0A;- Original project: &apos;Exercise&apos;&#x0D;&#x0A;- Original element: &apos;Entities.Rooms.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Entities.Reserve.java&apos;" description="Rename compilation unit &apos;Rooms.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;Entities{Rooms.java" name="Reserve.java" references="false" stamp="1551041065217" version="1.0"/>
+</session>
